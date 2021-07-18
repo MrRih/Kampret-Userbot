@@ -1,10 +1,10 @@
-# Kaisar USERBOT
+# Kampret USERBOT
 FROM jokokendil/ambohju1:buster
 
 #
-# Kaisar
+# Kampret
 #
-RUN git clone -b Kaisar-userbot https://github.com/kenkansaja/Kaisar-userbot /root/userbot
+RUN git clone -b Kaisar-userbot https://github.com/MrRih/Kampret-Userbot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
