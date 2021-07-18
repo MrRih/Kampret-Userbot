@@ -1,7 +1,7 @@
 {
   "name": "Kaisar-userbot",
   "description": "[Kaisar-userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/c4f0f54339957ccba4118.jpg",
+  "logo": "https://telegra.ph/file/file/9c0b5c4fb47ab959be280.png",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/kenkansaja/Kaisar-userbot",
-  "telegram": "https://t.me/kenkanasw",
-  "success_url": "https://t.me/kenkanasw",
+  "repository": "https://github.com/MrRih/Kampret-Userbot",
+  "telegram": "https://t.me/tehmanisangett",
+  "success_url": "https://t.me/miegorengtelorrr",
   "stack": "container",
   "env": {
     "API_KEY": {
