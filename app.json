@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/MrRih/Kampret-Userbot",
   "telegram": "https://t.me/tehmanisangett",
-  "success_url": "https://t.me/miegorengtelorrr",
+  "success_url": "https://t.me/tehmanisangett",
   "stack": "container",
   "env": {
     "API_KEY": {
